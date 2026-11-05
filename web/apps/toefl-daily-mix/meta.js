@@ -1,0 +1,1 @@
+window.SK_META = {"name": "toefl-daily-mix", "title": "TOEFL Daily Mix", "exam": "TOEFL", "area": "TOEFL Planning and Both Tests", "desc": "Fifteen minutes a day across reading, listening, writing and speaking, with a streak.", "content": ["toefl_passages.json", "responses.json", "build_sentences.json", "academic_words.json"], "n": 93};
